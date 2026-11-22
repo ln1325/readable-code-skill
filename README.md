@@ -1,4 +1,4 @@
-# reaable-code-skill
+# readable-code-skill
 
 面向多种 AI 编码工具的代码生成与审查技能集合。核心原则是：清晰、简洁、可读、一致、务实，并在必要时进行验证。
 
